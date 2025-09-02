@@ -32,7 +32,7 @@ Inference: *Take user prompt as input. *Encode into tokens. *Generate response u
 Evaluation & Deployment: *Measure metrics (perplexity, BLEU, human evals). *Test safety and reliability. *Deploy with monitoring and guardrails.
 
 ## Output File
-[Prompt.Eng.Exp-1.pdf](https://github.com/user-attachments/files/22049645/Prompt.Eng.Exp-1.pdf)
+[ex 1.pdf](https://github.com/user-attachments/files/22089514/ex.1.pdf)
 
 
 ## Result
